@@ -1,7 +1,7 @@
 #Ola, eu sou Maicon Soterio.
 
  ##Sobre mim:
- **Aluno de desenvolvimento de sistema na Etec.**
+ **😄 Aluno de desenvolvimento de sistema na Etec.**
  Iniciando aprendizados na programação.
 
 ##Tecnologias
