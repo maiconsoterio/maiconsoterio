@@ -1,4 +1,4 @@
-# Ola, eu sou Maicon Soterio.
+# ✋ Ola, eu sou Maicon Soterio.
 
  ## Sobre mim:
  
@@ -6,10 +6,17 @@
 
  Iniciando aprendizados na programação.🤔
 
-## Tecnologias:
+## 🖥️ Tecnologias:
 
  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+
+ 📫 Contato: 
  
+ 
+  ✉️ maiconfer2012@gmail.com
+ 
+ _______________________________________________________________________
+ " Dê-me um bom algoritmo e um ponto de apoio na nuvem, e eu movo o mundo "
  
 
 
