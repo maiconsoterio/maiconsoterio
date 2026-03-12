@@ -1,4 +1,13 @@
-## Hi there 👋
+#Ola, eu sou Maicon Soterio.
+
+ ##Sobre mim:
+ **Aluno de desenvolvimento de sistema na Etec.**
+ Iniciando aprendizados na programação.
+
+##Tecnologias
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
+
 
 <!--
 **maiconsoterio/maiconsoterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
