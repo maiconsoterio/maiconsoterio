@@ -3,6 +3,7 @@
  ## Sobre mim:
  
  **😄 Aluno de desenvolvimento de sistema na Etec.**
+
  Iniciando aprendizados na programação.🤔
 
 ## Tecnologias:
