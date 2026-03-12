@@ -1,10 +1,11 @@
 # Ola, eu sou Maicon Soterio.
 
- ##Sobre mim:
+ ## Sobre mim:
+ 
  **😄 Aluno de desenvolvimento de sistema na Etec.**
  Iniciando aprendizados na programação.🤔
 
-##Tecnologias
+## Tecnologias:
 
  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
  
