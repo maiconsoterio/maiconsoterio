@@ -1,4 +1,4 @@
-# ✋ Ola, eu sou Maicon Soterio.
+# ✋ Olá, eu sou Maicon Soterio.
 
  ## Sobre mim:
  
