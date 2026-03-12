@@ -5,6 +5,7 @@
  Iniciando aprendizados na programação.
 
 ##Tecnologias
+
  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
  
 
